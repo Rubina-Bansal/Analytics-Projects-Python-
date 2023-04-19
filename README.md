@@ -16,3 +16,7 @@ Link to dataset https://www.kaggle.com/datasets/danielgrijalvas/movies. The data
 
 The dataset aim to analyze variables that are likely to influence the business across verticals like Banking and Asset Management Companies using basic python concepts of for-loops and user-defined functions along with data manipulation and visualization techniques using Pandas and NumPy libraries. 
 The objective was to identify the best countries and a suitable investment type for making the investment for a firm. The overall strategy was to invest where others are investing, implying that the best countries are the ones ‘where most investors are investing’.
+
+# Credit Card Analysis
+The dataset relationg to customer details along with thier credit card payment details was provided from April 2005 to September 2005. The Objective was to analyse and seek insights on factors that lead to credible or not credible customers.
+The project is an end-to end EDA Case Study.
